@@ -11,7 +11,7 @@
 <ul>
   <li> 👱🏻‍♀️ 25 yars old</li>
   <li> 💻 Jr Full Stack Web Developer Trainee from Boolean</li>
-  <li> 💃🏼 I love Dancing, listening the Music and Sunny Days</li>
+  <li> 💃🏼 I love Dancing, listening to the Music and Sunny Days</li>
   <li> Css/Scss Queen 👑</li>
 </ul>
 
