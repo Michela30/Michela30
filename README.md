@@ -36,6 +36,14 @@
   <li> ⚙️| Tools: VS Code - MAMP - PHP My Admin - Git - GitHub  </li>
 </ul>
 
+<h3 align="center" style="color="green"" >
+  Take a look at the portfolio to find out more
+  </h3>
+  <div align="center">
+    ✨<a href="https://www.linkedin.com/in/michela-de-stefano/](https://michela30.github.io/myportfolio/)" > Click here </a>✨
+  </div>
+
+
   <h3 align="center" style="color="green"" >Follow me on Linkedin
   </h3>
   <div align="center">
