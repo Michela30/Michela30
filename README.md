@@ -37,7 +37,7 @@
 </ul>
 
 <h3 align="center" style="color="green"" >
-  Take a look at the portfolio to find out more
+  Take a look at the portfolio, for tablet and desktop, to find out more
   </h3>
   <div align="center">
     ✨<a href="https://michela30.github.io/myportfolio/" > Click here </a>✨
