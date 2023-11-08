@@ -9,7 +9,7 @@
   About me:
 </h3>
 <ul>
-  <li> 👱🏻‍♀️ 25 yars old</li>
+  <li> 👱🏻‍♀️ 25 years old</li>
   <li> 💻 Jr Full Stack Web Developer Trainee from Boolean</li>
   <li> 💃🏼 I love Dancing, listening to the Music and Sunny Days</li>
   <li> Css/Scss Queen 👑</li>
@@ -40,7 +40,7 @@
   Take a look at the portfolio to find out more
   </h3>
   <div align="center">
-    ✨<a href="https://www.linkedin.com/in/michela-de-stefano/](https://michela30.github.io/myportfolio/)" > Click here </a>✨
+    ✨<a href="https://michela30.github.io/myportfolio/" > Click here </a>✨
   </div>
 
 
